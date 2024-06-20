@@ -1,13 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Flávia Antabi</h1>
 <h3 align="center">Tenho uma grande afinidade com análise de dados</h3>
 
-- 🔭 Comecei a cursar, em fevereiro de 2024, **Faculdade de Análise e Desenvolvimento de Dados**
-
-- 🌱 Estou aprendendo cada dia mais sobre **Python, Html, Css e Power BI**
+- 🔭 Comecei a cursar **Faculdade de Análise e Desenvolvimento de Sistemas** recentemente.
 
 - 👯 Estou buscando minha primeira oportunidade **para trabalhar com uma empresa que me ajude a crescer e que me dê suporte para crescer junto à ela**
-
-- 📫 Para entrar em contato comigo através do meu e-mail: **flaviamfantabi@gmail.com**
 
 - 📄 Minhas experiências e habilidades encontram-se descritas em: [www.linkedin.com/in/flavia-antabi](www.linkedin.com/in/flavia-antabi)
 
